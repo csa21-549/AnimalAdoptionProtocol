@@ -1,6 +1,6 @@
 # **Protocol Report**
 
-This is a landing page that links to each component of my protocol for Bay Area Animal Adoption data. 
+This is a landing page that links to each component of the Bay Area Animal Adoption data repository protocol. 
 *Note that some of these link to .md files that have links embedded within to additional files.*
 - [Protocol Topic](Alsbury_DCII_ProtocolTopic.docx)
 - [User Stories and Use Cases](Alsbury_DCII_ProtocolUserStories_UseCases.docx)
