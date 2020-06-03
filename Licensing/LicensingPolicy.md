@@ -1,4 +1,4 @@
-**Licensing Policy**
+# **Licensing Policy**
 
 The [ODC Public Domain Dedication and Licence (PDDL)](https://opendatacommons.org/licenses/pddl/1.0/) will be attached to the datasets that are available for consumption in this repository. Because all of the data is openly available on the internet, there are minimal, if any, intellectual property concerns. 
 
