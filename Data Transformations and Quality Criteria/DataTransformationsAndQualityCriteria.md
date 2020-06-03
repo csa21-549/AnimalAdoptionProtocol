@@ -2,7 +2,7 @@
 - A checksum will be created prior to uploading and provided with the data package. The checksum will be run after uploading to ensure data authenticity. 
 - The data will be scanned for viruses prior to uploading to the repository. 
 - Because this data relates to local animal shelters, no information that the data producer considers confidential, sensitive, or private should be submitted. The repository managers assume no responsibility for removing, redacting, or protecting this information. 
-- A DOI will be applied to each data collection. This allows a unique and permanent object identifier for the data so it is findable by users. 
+- A DOI will be assigned to each data collection. This allows a unique and permanent object identifier for the data so it is findable by users. 
 - The curator should create metadata detailing the assignment of that data set to them. This metadata should include:
   - Name/ID of curator(s) cleaning the data set
   - Date the dataset was assigned to them
@@ -15,7 +15,7 @@
 - No data should be submitted in proprietary format. 
 - A .md file will be created that details the ingest and cleaning process. This .md file will be stored with the dataset and provided to end-users
 ## **Data Values**
-- A [data dictionary](Alsbury_DataDictionary_v.2.xlsx) has been created that defines what each variable means. The data will be normalized to utilize these variable names for uniformity among data sets and to allow easy data integration.
+- A [data dictionary](Alsbury_DataDictionary_v.2.xlsx) has been created that defines each variable. The data will be normalized to utilize these variable names for uniformity among datasets and to allow easy data integration.
 - The data dictionary also details the measurement units and allowed data values for each variable. 
 - The data dictionary will be provided to each data curator who plans to deposit data into the repository.
 - A [data file template](Data_File_Template.xlsx) illustrating a sample dataset framework will be provided to data curators to help them submit tidy datasets. This is just a suggested format and can be customized using variables from the data dictionary.
