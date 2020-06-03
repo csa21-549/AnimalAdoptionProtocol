@@ -1,0 +1,9 @@
+Organization,Species,Euthanasia Reason,Outcomes
+ACC,Dog,Owner Request-Not Specified,106
+ACC,Dog,Shelter Decision-Not Specified,151
+ACC,Cat,Owner Request-Not Specified,72
+ACC,Cat,Shelter Decision-Not Specified,210
+SF SPCA,Dog,Owner Request-Not Specified,0
+SF SPCA,Dog,Shelter Decision-Not Specified,40
+SF SPCA,Cat,Owner Request-Not Specified,0
+SF SPCA,Cat,Shelter Decision-Not Specified,105
