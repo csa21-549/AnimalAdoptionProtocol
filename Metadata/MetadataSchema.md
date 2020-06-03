@@ -2,23 +2,23 @@
 
 The metadata records uploaded with datasets should use Dublin Core Metadata Initiative terms, W3C Data Catalog (DCAT) Vocabulary terms, and Friend of a Friend (FOAF) vocabulary terms. <br />
  
-'dct:creator' <br />
-foaf:Organization <br />
-dct:title <br />
-dct:created <br />
-dct:dateSubmitted <br />
-dct:issued <br />
-dct:accrualPeriodicity <br />
-dct:location <br />
-dct:temporal  <br />
-dcat:startDate <br />
-dcat:endDate <br />
-dct:format  <br />
-dcat:byteSize <br />
-dcat:accessURL <br />
-dcat:downloadURL <br />
-dct:description <br />
-dct:license <br />
+- `dct:creator`
+- `foaf:Organization` 
+- `dct:title` 
+- `dct:created` 
+- `dct:dateSubmitted` 
+- `dct:issued` 
+- `dct:accrualPeriodicity` 
+- `dct:location`
+- `dct:temporal`
+- `dcat:startDate` 
+- `dcat:endDate` 
+- `dct:format` 
+- `dcat:byteSize` 
+- `dcat:accessURL`
+- `dcat:downloadURL`
+- `dct:description`
+- `dct:license`
 
 Permitted encoding schemas are JSON, XML, and CSV. <br />
 
