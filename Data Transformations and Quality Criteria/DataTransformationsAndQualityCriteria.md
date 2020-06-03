@@ -15,7 +15,7 @@
 - No data should be submitted in proprietary format. <br />
 - A .md file will be created that details the ingest and cleaning process. This .md file will be stored with the dataset and provided to end-users<br />
 ## **Data Values**<br />
-- A data dictionary has been created that defines what each variable means. The data will be normalized to utilize these variable names for uniformity among data sets and to allow easy data integration.<br />
+- A [data dictionary](Alsbury_DataDictionary.xlsx) has been created that defines what each variable means. The data will be normalized to utilize these variable names for uniformity among data sets and to allow easy data integration.<br />
 - The data dictionary also details the measurement units and allowed data values for each variable. <br />
 - The data dictionary will be provided to each data curator who plans to deposit data into the repository.<br />
 - A sample CSV file showing an ideal dataset format will be provided to data curators to help them submit tidy datasets. <br />
