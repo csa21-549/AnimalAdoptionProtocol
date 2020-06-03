@@ -1,7 +1,7 @@
 # **Transfer**
 - A checksum will be created prior to uploading and provided with the data package. The checksum will be run after uploading to ensure data authenticity. 
 - The data will be scanned for viruses prior to uploading to the repository. 
-- Because this data relates to local animal shelters, no information that the data producer considers confidential, sensitive, or private should be submitted. The repository managers assume no responsibility for removing, redacting, or protecting this information. 
+- Because this data relates to local animal shelters, no information considered confidential, sensitive, or private is relevant to the purpose of this repository and therefore should not be submitted. The repository managers assume no responsibility for removing, redacting, or protecting any confidential, sensitive, or private information contained within datasets. 
 - A DOI will be assigned to each data collection. This allows a unique and permanent object identifier for the data so it is findable by users. 
 - The curator should create metadata detailing the assignment of that data set to them. This metadata should include:
   - Name/ID of curator(s) cleaning the data set
