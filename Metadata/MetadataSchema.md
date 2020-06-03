@@ -1,8 +1,8 @@
-**Metadata Schema** <br />
+# **Metadata Schema** <br />
 
 The metadata records uploaded with datasets should use Dublin Core Metadata Initiative terms, W3C Data Catalog (DCAT) Vocabulary terms, and Friend of a Friend (FOAF) vocabulary terms. <br />
  
-dct:creator <br />
+'dct:creator' <br />
 foaf:Organization <br />
 dct:title <br />
 dct:created <br />
